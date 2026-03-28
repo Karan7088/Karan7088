@@ -39,7 +39,7 @@ class KaranAswal:
         return {
             "languages" : ["Python", "SQL", "DAX"],
             "libraries" : ["Pandas", "NumPy", "Scikit-Learn"],
-            "viz_tools" : ["Power BI", "Tableau", "Excel"],
+            "viz_tools" : ["Power BI", "Excel"],
             "databases" : ["MySQL", "PostgreSQL"],
             "practices" : ["ETL Pipelines", "Feature Engineering",
                            "Hypothesis Testing", "Query Optimization"]
