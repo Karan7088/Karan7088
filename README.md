@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00E5FF,100:7B2FBE&height=200&section=header&text=Karan%20Aswal&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analyst%20→%20Data%20Scientist&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
